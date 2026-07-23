@@ -41,4 +41,4 @@ I am an IT professional based in Medellín, Colombia. I specialize in Level 2 (L
 
 📧 **Email:** neburortega0214@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](PUT_YOUR_LINKEDIN_URL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ruben-ortega-4732822b7)
